@@ -9,6 +9,7 @@ Interests: ["Coding", "Open Source", "Reading", "Side Projects"]
 
 - Endsem exams
 - Visited OSHO ashram 🧘
+- Got an internship offer 
 
 ## December 2022
 
