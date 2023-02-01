@@ -31,7 +31,7 @@ export default function Post({ user }) {
       ) : (
         <>
           <Head>
-            <title>{Name} achievements 🎉</title>
+            <title>{Name} highlights 🎉</title>
             <link rel="icon" href="/achievements.svg" />
           </Head>
           <InfoHeader name={Name} twitter={Twitter} github={Github} peerlist={Peerlist}/>
