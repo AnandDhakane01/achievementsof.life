@@ -1,5 +1,5 @@
-import Head from 'next/head';
-import styles from '../styles/Home.module.css';
+import Head from "next/head";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -12,12 +12,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Achievementsof.life</h1>
-        <a
+        {/* <a
           className="create-your-page"
-          href="https://github.com/plxity/achievementsof.life#readme"
+          href=""
         >
           Start documenting every achievement. 🎉
-        </a>
+        </a> */}
       </main>
     </div>
   );
