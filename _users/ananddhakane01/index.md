@@ -8,6 +8,7 @@ Interests: ["Coding", "Open Source", "Reading", "Side Projects"]
 
 - Rode to Nandi Hills on a Himalayan for the first time 🌄
 - Worked on a project with a diff tech stack all by myself
+- experienced the under25summit
 - Visited Coimbatore 
 
 ## February 2023

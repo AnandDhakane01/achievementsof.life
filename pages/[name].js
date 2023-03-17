@@ -35,6 +35,7 @@ export default function Post({ user }) {
             <link rel="icon" href="/achievements.svg" />
           </Head>
           <InfoHeader name={Name} twitter={Twitter} github={Github} peerlist={Peerlist}/>
+          <h3>just a birds eye view of my life lol</h3>
           <AchievementCard content={content} />
           {/* <a
             href="https://github.com/plxity/achievementsof.life#readme"
