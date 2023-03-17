@@ -4,6 +4,16 @@ Twitter: "https://twitter.com/AnandDhakane3"
 Github: "https://github.com/ananddhakane01"
 Interests: ["Coding", "Open Source", "Reading", "Side Projects"]
 ---
+## March 2023
+
+- Rode to Nandi Hills on a Himalayan for the first time 
+- Worked on a project with a diff tech stack all by myself
+- Visited Coimbatore 
+
+## February 2023
+
+- Moved to Bangalore 
+- Learnt angular
 
 ## January 2023
 
